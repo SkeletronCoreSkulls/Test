@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xf78005A66A8d05A66FcbF72aDE3b5eA33D01Ffa1",
+  "SCAN_LINK": "https://filfox.info/en/address/0xf78005A66A8d05A66FcbF72aDE3b5eA33D01Ffa1",
+  "NETWORK": {
+    "NAME": "Filenet Mainnet",
+    "SYMBOL": "FIL",
+    "ID": 314
+  },
+  "NFT_NAME": "File Punks",
+  "SYMBOL": "FP",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 150000000000000000,
+  "DISPLAY_COST": 0.15,
+  "GAS_LIMIT": 3000000,
+  "MARKETPLACE": "Marketplace soon",
+  "MARKETPLACE_LINK": "",
+  "SHOW_BACKGROUND": true
+}
